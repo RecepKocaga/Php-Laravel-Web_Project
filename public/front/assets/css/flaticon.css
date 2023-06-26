@@ -1,0 +1,119 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticonb915.ttf?d5b396c637120e6ef47a69b9a74cc5cc") format("truetype"),
+url("../fonts/flaticonb915.woff?d5b396c637120e6ef47a69b9a74cc5cc") format("woff"),
+url("../fonts/flaticonb915.woff2?d5b396c637120e6ef47a69b9a74cc5cc") format("woff2"),
+url("../fonts/flaticonb915.eot?d5b396c637120e6ef47a69b9a74cc5cc#iefix") format("embedded-opentype"),
+url("../fonts/flaticonb915.svg?d5b396c637120e6ef47a69b9a74cc5cc#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-pin:before {
+    content: "\f101";
+}
+.flaticon-email:before {
+    content: "\f102";
+}
+.flaticon-phone-call:before {
+    content: "\f103";
+}
+.flaticon-enter:before {
+    content: "\f104";
+}
+.flaticon-snowfall:before {
+    content: "\f105";
+}
+.flaticon-business-and-trade:before {
+    content: "\f106";
+}
+.flaticon-phone-call-1:before {
+    content: "\f107";
+}
+.flaticon-pot:before {
+    content: "\f108";
+}
+.flaticon-vacuum-cleaner:before {
+    content: "\f109";
+}
+.flaticon-house-cleaning:before {
+    content: "\f10a";
+}
+.flaticon-desk:before {
+    content: "\f10b";
+}
+.flaticon-cleaning:before {
+    content: "\f10c";
+}
+.flaticon-window:before {
+    content: "\f10d";
+}
+.flaticon-shuttle:before {
+    content: "\f10e";
+}
+.flaticon-broom:before {
+    content: "\f10f";
+}
+.flaticon-selection:before {
+    content: "\f110";
+}
+.flaticon-badge:before {
+    content: "\f111";
+}
+.flaticon-mop:before {
+    content: "\f112";
+}
+.flaticon-cleaning-1:before {
+    content: "\f113";
+}
+.flaticon-vacuum-cleaner-1:before {
+    content: "\f114";
+}
+.flaticon-network:before {
+    content: "\f115";
+}
+.flaticon-24-hours-support:before {
+    content: "\f116";
+}
+.flaticon-happy:before {
+    content: "\f117";
+}
+.flaticon-boy:before {
+    content: "\f118";
+}
+.flaticon-gift-box:before {
+    content: "\f119";
+}
+.flaticon-video-camera:before {
+    content: "\f11a";
+}
+.flaticon-booking:before {
+    content: "\f11b";
+}
+.flaticon-delivery-box:before {
+    content: "\f11c";
+}
+.flaticon-home:before {
+    content: "\f11d";
+}
+.flaticon-support:before {
+    content: "\f11e";
+}
+.flaticon-email-1:before {
+    content: "\f11f";
+}
+.flaticon-pdf-file:before {
+    content: "\f120";
+}
+.flaticon-file:before {
+    content: "\f121";
+}

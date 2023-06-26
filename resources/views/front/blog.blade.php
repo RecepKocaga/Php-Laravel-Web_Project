@@ -2,6 +2,7 @@
 @section('title','Blog')
 @section('content')
 
+
 <div class="tp-page-title-area pt-180 pb-185 position-relative fix" data-background="{{asset('front/')}}/assets/img/slider/breadcrumb-bg-1.jpg" style="background-image: url(&quot;{{asset('front/')}}/assets/img/slider/breadcrumb-bg-1.jpg&quot;);">
             <div class="tp-custom-container">
                 <div class="row">
@@ -11,7 +12,7 @@
                             <div class="breadcrumb-menu">
                                 <nav class="breadcrumb-trail breadcrumbs">
                                     <ul class="trail-items">
-                                        <li class="trail-item trail-begin"><a href="{{route('homepage')}}">deeeee Anasayfa</a></li>
+                                        <li class="trail-item trail-begin"><a href="{{route('homepage')}}">Anasayfa</a></li>
                                         <li class="trail-item trail-end"><span><a href="{{route('blog')}}">@yield('title')</a></span></li>
                                     </ul>
                                 </nav>
@@ -19,9 +20,10 @@
                         </div>
                     </div>
                 </div>
-            </div>   
+            </div>
         </div>
 
+        
 
 <section class="blog-sidebar-area pt-120 pb-110">
             <div class="container">

@@ -11,7 +11,7 @@
                             <div class="breadcrumb-menu">
                                 <nav class="breadcrumb-trail breadcrumbs">
                                     <ul class="trail-items">
-                                        <li class="trail-item trail-begin"><a href="{{route('homepage')}}">Anasayfa</a></li>
+                                        <li class="trail-item trail-begin"><a href="{{route('homepage')}}">deeeee Anasayfa</a></li>
                                         <li class="trail-item trail-end"><span><a href="{{route('blog')}}">@yield('title')</a></span></li>
                                     </ul>
                                 </nav>

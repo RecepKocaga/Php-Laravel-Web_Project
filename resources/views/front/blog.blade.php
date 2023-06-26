@@ -2,7 +2,6 @@
 @section('title','Blog')
 @section('content')
 
-
 <div class="tp-page-title-area pt-180 pb-185 position-relative fix" data-background="{{asset('front/')}}/assets/img/slider/breadcrumb-bg-1.jpg" style="background-image: url(&quot;{{asset('front/')}}/assets/img/slider/breadcrumb-bg-1.jpg&quot;);">
             <div class="tp-custom-container">
                 <div class="row">
@@ -23,7 +22,6 @@
             </div>
         </div>
 
-        
 
 <section class="blog-sidebar-area pt-120 pb-110">
             <div class="container">
